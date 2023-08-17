@@ -22,3 +22,11 @@ let $another = 27;
 
 let person = "Nukri";
 let PI = 3.1415;
+
+// use descriptive names
+
+let myFirstJob = "Coder";
+let myCurrentJob = "Teacher";
+
+let job1 = "programmer";
+let job2 = "teacher";
