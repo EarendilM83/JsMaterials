@@ -32,25 +32,45 @@
 // let job2 = "teacher";
 
 
-const firstName = 'nukri';
-const job = 'teacher';
-const birthYear = '1996';
-const year = 2023;
+// const firstName = 'nukri';
+// const job = 'teacher';
+// const birthYear = '1996';
+// const year = 2023;
 
-const Nukri = "I'm " + firstName + ', a ' + (year - birthYear) + ' years old ' + job + '!';
+// const Nukri = "I'm " + firstName + ', a ' + (year - birthYear) + ' years old ' + job + '!';
 
-console.log(Nukri);
-
-
-const templateLiterals = `I'm ${firstName}, a ${year - birthYear} years old ${job}!`;
-
-console.log(templateLiterals)
+// console.log(Nukri);
 
 
-console.log(`ჩვეულებრივი ტექსტი`);
+// const templateLiterals = `I'm ${firstName}, a ${year - birthYear} years old ${job}!`;
 
-console.log('New line syntax -> \n\ this is second line already \n\ and so it is');
+// console.log(templateLiterals)
 
-console.log(`1st line,
-second line,
-3rd line.`)
+
+// console.log(`ჩვეულებრივი ტექსტი`);
+
+// console.log('New line syntax -> \n\ this is second line already \n\ and so it is');
+
+// console.log(`1st line,
+// second line,
+// 3rd line.`)
+
+
+// const willPower = true;
+
+// if(willPower == true){
+//     console.log('I can learn JavaScript in 6 months');
+// } else {
+//     console.log('It will take another 3 years or more...')
+// }
+
+// const birthYear = 1996;
+
+// let century;
+// if(birthYear <= 2000) {
+//     century = 20;
+// } else {
+//     century = 21;
+// }
+
+// console.log(century);
