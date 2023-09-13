@@ -74,3 +74,19 @@
 // }
 
 // console.log(century);
+
+
+//logical operators
+
+const hasDrivingLicense = true;
+const hasGoodVision = false;
+
+console.log(hasDrivingLicense && hasGoodVision);
+console.log(hasDrivingLicense || hasGoodVision);
+console.log(!hasDrivingLicense)
+
+if(hasDrivingLicense && hasGoodVision) {
+    console.log('Sweet');
+} else{
+    console.log('Give me the key!')
+}
